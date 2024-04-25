@@ -1,5 +1,5 @@
 # Huddle Landing Page
-[Live Demo](https://abdelrahmanmohamed78.github.io/Huddle/)
+[Live Demo](https://abdelrahmanmohamed78.github.io/Huddle-Frontend-Mentor-Challenge/)
 
 
 # Landing Screen
